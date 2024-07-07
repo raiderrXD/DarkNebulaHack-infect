@@ -192,4 +192,3 @@ fi
 
 about(){
 clear
-echo -e '\e[
