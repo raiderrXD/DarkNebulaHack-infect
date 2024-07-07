@@ -16,10 +16,10 @@
 * pkg install python2 -y
 * pkg install git -y
 * pip install lolcat
-* git clone https://github.com/raiderrXD/DarkNebulaHack-infect
+*git clone https://github.com/raiderrXD/DarkNebulaHack-infect
 * cd $HOME
 * ls
-* cd infect
+* cd DarkNebulaHack-infect
 * ls
 * bash infect.sh
 
