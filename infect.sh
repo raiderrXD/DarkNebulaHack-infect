@@ -1,4 +1,4 @@
-#!/bin/bash
+qqq#!/bin/bash
 
 red="\e[91m"
 rset="\e[0m"
